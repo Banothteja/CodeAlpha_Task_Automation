@@ -48,6 +48,6 @@ def organize_files(directory):
             print(f"No matching folder for: {file_name}")
 
 # Specify the directory you want to organize
-directory_to_organize = "C:\\Users\\teja\\OneDrive\\Pictures"
+directory_to_organize = "C:\\Users\\teja\\OneDrive\\Pictures\\BADRAKALI BUND"
 
 organize_files(directory_to_organize)
